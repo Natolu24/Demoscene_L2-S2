@@ -5,3 +5,5 @@ Didn't really had any inspiration, so I just went with creating lots of cubes an
 Was interesting.
 
 Makefile is configured, but Linux is recommended to run it
+
+Video link : https://youtu.be/96tLl9dgRWc
